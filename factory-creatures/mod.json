@@ -6,9 +6,10 @@
 	"licenseURL" : "https://creativecommons.org/licenses/by-nc-sa/4.0/deed",
 	"modType" : "Town",
 	"name" : "Factory HotA Creatures",
-	"version" : "1.4.2",	
+	"version" : "1.4.3",	
 	"changelog" : 
 	{
+		"1.4.3"   : [ "New icons by Aphra." ],
 		"1.4.2"   : [ "Bug fixes." ],
 		"1.4.1"   : [ "Minor graphic fixes." ],
 		"1.4.0"   : [ "Adventure map updates." ],
