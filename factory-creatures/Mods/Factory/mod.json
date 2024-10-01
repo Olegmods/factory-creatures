@@ -1,11 +1,11 @@
 {
 	"name" : "Factory (Unofficial)",
 	"description" : "HotA's Factory in original style. Incompatible with Ciberium mod",
-	"author" : "HotA Crew, mod by Olegmods.INC with usage of models from mods: Neutral Heroes (VCMI), Antagarich Burning (Bandit def) (VCMI), Factory demo (Spells' configs) Third Upgrades Mod (New Repair def) (ERA) and ERA+ (Bounty Hunter rip) (ERA). Also used assets from World of Warcraft (Both Termotrons), Nepheretes's Oasis old materials, PvZ2 (Wild West first wave) and fiorin's hero pack (male Mercenary).",
+	"author" : "HotA Crew, mod by Olegmods.INC with usage of models from mods: Neutral Heroes (VCMI), Antagarich Burning (Bandit def) (VCMI), Factory demo (Spells' configs) Third Upgrades Mod (New Repair def) (ERA) and ERA+ (Bounty Hunter rip) (ERA). Also used assets from World of Warcraft (Both Termotrons), Nepheretes's Oasis old materials, PvZ2 (Wild West first wave) and fiorin's hero pack (male Mercenary). Some icons made by Aphra.",
 	"licenseName" : "Creative Commons Attribution-NonCommercial-ShareAlike",
 	"licenseURL" : "https://creativecommons.org/licenses/by-nc-sa/4.0/deed",
-	"contact" : "www.forum.df2",
-	"version" : "2.0.0",
+	"contact" : "https://vk.com/olegkomarant",
+	"version" : "2.0.1",
 	"modType" : "Town",
 	"changelog" : 
 	{
