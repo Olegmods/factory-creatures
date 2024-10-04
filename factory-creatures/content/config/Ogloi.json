@@ -128,7 +128,7 @@
 				{
 					"type" : "RETURN_AFTER_STRIKE"
 				},
-				"values" : [ false, false, false, false, false, true, true, true, true, true ]
+				"values" : [ false, false, false, false, true, true, true, true, true, true ]
 			}
 		]
 	}
