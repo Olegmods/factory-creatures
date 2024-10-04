@@ -54,7 +54,8 @@
 			"defend" : "WORMDFND.wav",
 			"killed" : "WORMKILL.wav",
 			"move"   : "WORMMOVE.wav",
-			"wince"  : "WORMWNCE.wav",							"startMoving" : "WORMEXT1.wav",
+			"wince"  : "WORMWNCE.wav",
+			"startMoving" : "WORMEXT1.wav",
 			"endMoving" : "WORMEXT2.wav"
 ///			"startMoving" : "VAMPEXT1.wav",
 ///			"endMoving" : "VAMPEXT2.wav"
