@@ -6,7 +6,7 @@
 			"singular" : "Cowboys",
 			"plural" : "Cowboy"
 		},
-		"faction" : "factoryUn",
+		"faction" : "neutral",
 		"level": 0,
 		"speed" : 4,
 		"hitPoints" : 40,
