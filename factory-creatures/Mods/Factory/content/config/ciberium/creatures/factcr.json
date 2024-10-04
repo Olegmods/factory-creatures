@@ -1,4 +1,10 @@
 {
+	
+	"factory_creatures:faUnCommander" :
+	{
+		"faction": "factoryUn",
+
+	},
 	"core:halfling" :
 	{
 		"faction": "factoryUn",
