@@ -1,0 +1,94 @@
+{
+	"faUnCommander":
+	{
+		"name" :
+		{
+			"singular" : "Cowboys",
+			"plural" : "Cowboy"
+		},
+		"faction" : "factoryUn",
+		"level": 0,
+		"speed" : 4,
+		"hitPoints" : 40,
+		"attack" : 5,
+		"defense" : 5,
+		"damage" :
+		{
+			"min" : 6,
+			"max" : 12
+		},
+		"growth" : 9,
+		"fightValue" : 130,
+		"aiValue" : 156,
+		"hasDoubleWeek": false,
+		"advMapAmount" :
+		{
+			 "min" : 16,
+			 "max" : 25
+		},
+		"doubleWide" : false,
+		"special" : true,
+		"shots" : 24,
+		"abilities":
+		{
+			"magicResistance" :
+			{
+				"type" : "MAGIC_RESISTANCE",
+				"val" : 5
+			},
+			"castsAmount" :
+			{
+				"type" : "CASTS",
+				"val" : 1
+			},
+			"enchant" :
+			{
+				"type" : "CREATURE_ENCHANT_POWER",
+				"val" : 1
+			},
+			"spellpower" :
+			{
+				"type" : "CREATURE_SPELL_POWER",
+				"val" : 100
+			},
+			"canCast" :
+			{
+				"type" : "SPELLCASTER",
+				"subtype" : "spell.precision",
+				"val" : 3
+			}
+		},
+		"graphics" : {
+			"animation" : "teststeltest.def",
+			"animationTime" : { "attack" : 1, "idle" : 10, "walk" : 1 },
+			"iconLarge" : "GH.png",
+			"iconSmall" : "gunsl.bmp",
+			"map" : "avwguns.def",
+			"mapMask" : [ "VVV", "VAV"],
+			
+			"missile" : {
+				"attackClimaxFrame" : 10,
+				"offset" :
+				{
+					"upperX" : 38,
+					"upperY" : -65,
+					"middleX" : 36,
+					"middleY" : -59,
+					"lowerX" : 21,
+					"lowerY" : -50
+				},
+				"frameAngles" : [90, 72, 45, 27, 0, -27, -45, -72, -90, 0, 0, 0],
+				"projectile" : "courtyard/battle/projectile/PMusket.def"
+				},
+			"timeBetweenFidgets" : 1
+		},
+		"sound" : {
+			"attack" : "GUNSATTK.wav",
+			"defend" : "GUNSDFND.wav",
+			"killed" : "GUNSKILL.wav",
+			"move" : "GUNSMOVE.wav",
+			"shoot" : "GUNSSHOT.wav", 
+			"wince" : "GUNSWNCE.wav"
+		}
+	}
+}
