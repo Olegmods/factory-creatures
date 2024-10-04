@@ -115,7 +115,7 @@
 			{
 				"bonus" : 
 				{ 
-					"type" : "BLOCKS_RETALIATION 
+					"type" : "BLOCKS_RETALIATION"
 				},
 				"values" : [ false, false, false, false, false, false, true, true, true, true ]
 
