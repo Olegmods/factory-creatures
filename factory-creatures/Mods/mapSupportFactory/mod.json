@@ -19,7 +19,7 @@
 		"hota.mapobjects",
 		"hota.mapdecorations",
 		"hota.neutralcreatures",
-		"factory_creatures.newgraphicsfactory",
+		"factory-creatures.newgraphicsfactory",
 		"hota.terrainoverlays",
 		"hota.highlandsterrain",
 		"hota.wastelandterrain"
