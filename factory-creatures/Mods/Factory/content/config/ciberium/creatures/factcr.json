@@ -1,6 +1,6 @@
 {
 	
-	"factory_creatures:faUnCommander" :
+	"factory-creatures:faUnCommander" :
 	{
 		"faction": "factoryUn",
 
@@ -10,7 +10,7 @@
 		"faction": "factoryUn",
 
 	},
-	"factory_creatures:faHalful":
+	"factory-creatures:faHalful":
 	{
 		"faction" : "factoryUn",
 		"graphics" :
@@ -45,7 +45,7 @@
 			}
 		}
 	},
-	"factory_creatures:bandit":
+	"factory-creatures:bandit":
 	{
 		"faction": "factoryUn",
 		"graphics" :
@@ -82,35 +82,35 @@
 			"iconLarge" : "ciberium/iconsBig/rogufact.png",
 		}
 	},
-	"factory_creatures:faBellArma":
+	"factory-creatures:faBellArma":
 	{
 		"faction" : "factoryUn"
 	},
-	"factory_creatures:faArma":
+	"factory-creatures:faArma":
 	{
 		"faction" : "factoryUn"
 	},
-	"factory_creatures:faMechanic":
+	"factory-creatures:faMechanic":
 	{
 		"faction" : "factoryUn"
 	},
-	"factory_creatures:faEngineer":
+	"factory-creatures:faEngineer":
 	{
 		"faction" : "factoryUn"
 	},
-	"factory_creatures:faSpider":
+	"factory-creatures:faSpider":
 	{
 		"faction" : "factoryUn"
 	},
-	"factory_creatures:faSentinelSpider":
+	"factory-creatures:faSentinelSpider":
 	{
 		"faction" : "factoryUn"
 	},
-	"factory_creatures:faSheriff":
+	"factory-creatures:faSheriff":
 	{
 		"faction" : "factoryUn"
 	},
-	"factory_creatures:faAutomaton":
+	"factory-creatures:faAutomaton":
 	{
 		"faction" : "factoryUn",
 		"graphics" :
@@ -128,7 +128,7 @@
 			}
 		}
 	},
-	"factory_creatures:faBattleAutomaton":
+	"factory-creatures:faBattleAutomaton":
 	{
 		"faction" : "factoryUn",
 		"graphics" :
@@ -146,35 +146,35 @@
 			}
 		}
 	},
-	"factory_creatures:faGunslinger":
+	"factory-creatures:faGunslinger":
 	{
 		"faction" : "factoryUn"
 	},
-	"factory_creatures:faBounty":
+	"factory-creatures:faBounty":
 	{
 		"faction" : "factoryUn"
 	},
-	"factory_creatures:faOgloi":
+	"factory-creatures:faOgloi":
 	{
 		"faction" : "factoryUn"
 	},
-	"factory_creatures:faWurm":
+	"factory-creatures:faWurm":
 	{
 		"faction" : "factoryUn"
 	},
-	"factory_creatures:faCouatl":
+	"factory-creatures:faCouatl":
 	{
 		"faction" : "factoryUn"
 	},
-	"factory_creatures:faRedCouatl":
+	"factory-creatures:faRedCouatl":
 	{
 		"faction" : "factoryUn"
 	},
-	"factory_creatures:faDreadnought":
+	"factory-creatures:faDreadnought":
 	{
 		"faction" : "factoryUn"
 	},
-	"factory_creatures:faJuggernaut":
+	"factory-creatures:faJuggernaut":
 	{
 		"faction" : "factoryUn"
 	}
