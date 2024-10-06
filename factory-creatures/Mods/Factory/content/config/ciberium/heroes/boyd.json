@@ -1,7 +1,7 @@
 {
 	"boyd" : 
 	{
-		"class" : "mercenary",
+		"class" : "unMercenary",
 		"special" : true,
 		"female" : false,
 		"texts" :

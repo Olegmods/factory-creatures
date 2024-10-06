@@ -1,7 +1,7 @@
 {
-	"artificer" :
+	"unArtificer" :
 	{
-		"name" : "Artificer",
+		"name" : "unArtificer",
 		"animation" :
 		{
 			"battle" : 
@@ -27,7 +27,7 @@
 				} 
 			} 
 		},
-		"commander" : "faWurm",		
+		"commander" : "faUnCommander",		
 		"faction" : "factoryUn",
 		"affinity" : "magic",
 		"primarySkills" :

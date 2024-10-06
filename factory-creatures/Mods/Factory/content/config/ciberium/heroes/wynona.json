@@ -1,7 +1,7 @@
 {
 	"wynona" : 
 	{
-		"class" : "mercenary",
+		"class" : "unMercenary",
 		"female" : true,
 		"texts" :
 		{
@@ -9,7 +9,7 @@
 			"biography" : "Jadamean dark elves' natural element is the towns and deserts they cross with their caravans. Wynona, however, had always preferred exploring the wilderness outside Alvar and the Murmurwoods, tracking animals and taking notes of their habits. She eventually became the foremost authority on Jadamean fauna, having learned a great deal from her flying, crawling, and hopping friends.",
 			"specialty" :
 			{
-				"description" : "{Scouting}\r\n\r\nIncreases Scouting radius by 1 for every 6 levels.",
+				"description" : "Increases Scouting radius by 1 for every 6 levels.",
 				"tooltip" : "Secondary Skill Bonus: Scouting",
 				"name" : "Scouting"
 			}

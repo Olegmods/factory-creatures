@@ -1,7 +1,7 @@
 {
 	"tarnumfactory" : 
 	{
-		"class" : "mercenary",
+		"class" : "unMercenary",
 		"female" : false,
 ///		"special" : false,
 		"special" : true,
@@ -11,7 +11,7 @@
 			"biography" : "Judged by the Ancestors as unworthy of entering Paradise, Tarnum wanders the land seeking redemption for the crimes of his past. He is the Immortal Hero, a timeless protector, but personally troubled by the doubt that he can ever make up for the tremendous wrongs that he performed in his youth.",
 			"specialty" :
 			{
-				"description" : "{Forces of the Heavenly Forge}\r\n\r\nYour non-living forces have +10 attack.",
+				"description" : "Your non-living forces have +10 attack.",
 				"tooltip" : "Faction Bonus: Forces of the Heavenly Forge",
 				"name" : "Forces of the Heavenly Forge"
 			}
@@ -48,7 +48,7 @@
 			"bonuses" : {
 				"forgePowers" : {
 					"type" : "PRIMARY_SKILL",
-					"subtype" : "primaryskill.attack",
+					"subtype" : "primarySkill.attack",
 					"val" : 10,
 					"limiters" : [
     						{

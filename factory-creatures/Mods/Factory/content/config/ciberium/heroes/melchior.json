@@ -1,7 +1,7 @@
 {
 	"melchior" : 
 	{
-		"class" : "mercenary",
+		"class" : "unMercenary",
 		"female" : false,
 		"texts" :
 		{
@@ -9,7 +9,7 @@
 			"biography" : "Melchior can see everything that is going on in the deepest recesses of someone else's mind. This secret talent provides a crucial advantage when assessing the foe's strength and intentions and convincing him to agree to terms. Any prince who enlists Melchior's services can be certain of never having to plead for a disgraceful peace.",
 			"specialty" :
 			{
-				"description" : "{Diplomacy}\r\n\r\nReceives a 5% per level bonus to Diplomacy skill percentage when surrendering.",
+				"description" : "Receives a 5% per level bonus to Diplomacy skill percentage when surrendering.",
 				"tooltip" : "Secondary Skill Bonus: Diplomacy",
 				"name" : "Diplomacy"
 			}

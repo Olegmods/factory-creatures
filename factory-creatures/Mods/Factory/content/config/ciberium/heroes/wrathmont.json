@@ -1,7 +1,7 @@
 {
 	"wrathmontfactory" : 
 	{
-		"class" : "artificer",
+		"class" : "unArtificer",
 		"female" : false,
 		"texts" :
 		{
@@ -9,7 +9,7 @@
 			"biography" : "Wrathmont's volatile temper got him into countless problems in his life, most notably during the carve-up of Archibald Ironfist's estate, when former colleagues banded together against the warlock, weary of his tantrums. Barely escaping them, Wrathmont fled to Enroth. He spent years searching for and studying old stone tablets, learning to control his fury and stoke it in others instead.",
 			"specialty" : 
 			{
-				"description" : "{Frenzy}\r\n\r\nCasts Frenzy with Attack bonus increased by 3% for ever n hero levels, where n is the level of the targeted creature.",
+				"description" : "Casts Frenzy with Attack bonus increased by 3% for ever n hero levels, where n is the level of the targeted creature.",
 				"tooltip" : "Spell Bonus: Frenzy",
 				"name" : "Frenzy"
 			}

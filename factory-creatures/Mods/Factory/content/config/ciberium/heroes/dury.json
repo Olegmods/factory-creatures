@@ -1,7 +1,7 @@
 {
 	"dury" : 
 	{
-		"class" : "mercenary",
+		"class" : "unMercenary",
 		"female" : true,
 		"texts" :
 		{
@@ -9,7 +9,7 @@
 			"biography" : "Dury spent the longest time in search for a magician who would not just promise to, but actually eliminate the repercussions of wounds she had sustained in dozens of clashes. One excellent blacksmith was able to forge a siertal plate to replace the part of her skull caved in by a wyvern's tail, and the mercenary now values fine armor far more than any magical malarkey.",
 			"specialty" :
 			{
-				"description" : "{Armorer}\r\n\r\nReceives a 5% per level bonus to Armorer skill percentage.",
+				"description" : "Receives a 5% per level bonus to Armorer skill percentage.",
 				"tooltip" : "Secondary Skill Bonus: Armorer",
 				"name" : "Armorer"
 			}

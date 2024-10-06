@@ -1,7 +1,7 @@
 {
 	"ziph" : 
 	{
-		"class" : "artificer",
+		"class" : "unArtificer",
 		"female" : true,
 		"texts" :
 		{
@@ -9,7 +9,7 @@
 			"biography" : "Ziph had long served as a maid to an old mage who looked down on her and her kin. The wizard had no idea that ''ziph'' meant ''freedom'' in Gremlish, much less did he suspect that she was listening in on his lectures. One day, Ziph crammed half of her master's lab into a magic bag, hid in a ship's hold, and fled Bracada for good.",
 			"specialty" : 
 			{
-				"description" : "{Lightning Bolt}\r\n\r\nCasts Lightning Bolt with damage increased by 3% for every n hero levels, where n is the level of the targeted creature.",
+				"description" : "Casts Lightning Bolt with damage increased by 3% for every n hero levels, where n is the level of the targeted creature.",
 				"tooltip" : "Spell Bonus: Lightning Bolt",
 				"name" : "Lightning Bolt"
 			}

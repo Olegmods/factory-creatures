@@ -6,9 +6,11 @@
 	"licenseURL" : "https://creativecommons.org/licenses/by-nc-sa/4.0/deed",
 	"modType" : "Town",
 	"name" : "Factory HotA Creatures",
-	"version" : "1.4.3",	
+	"version" : "1.4.5",	
 	"changelog" : 
 	{
+		"1.4.5"   : [ "Fixed issues with Commander and stack experience system." ],
+		"1.4.4"   : [ "Commander and stack experience added." ],
 		"1.4.3"   : [ "New icons by Aphra." ],
 		"1.4.2"   : [ "Bug fixes." ],
 		"1.4.1"   : [ "Minor graphic fixes." ],
@@ -37,6 +39,7 @@
 		"config/Juggernaut.json",
 		"config/Automaton.json",
 		"config/Automaton B.json",
+		"config/commander.json",
 		"config/halful.json",
 		"config/Cou.json",
 		"config/RedCou.json",

@@ -24,10 +24,10 @@
 	},
 	"depends" :
 	[
-		"factory_creatures",
+		"factory-creatures",
 		"hota.wastelandterrain",
-		"factory_creatures.heroes3datapatchfactory",
-		"factory_creatures.newgraphicsfactory"
+		"factory-creatures.heroes3datapatchfactory",
+		"factory-creatures.newgraphicsfactory"
 	],
 	"factions" :
 	[

@@ -1,7 +1,7 @@
 {
 	"eanswythe" : 
 	{
-		"class" : "artificer",
+		"class" : "unArtificer",
 		"female" : true,
 		"texts" :
 		{
@@ -9,7 +9,7 @@
 			"biography" : "According to hearsays, it was Eanswythe who concocted the potion that poisoned Regna's first emperor Hareck before fleeing for Jadame. If that is indeed the case, then she must be at least 6 centuries old. Ordinary people don't live that long, and whoever this enigmatic crone is, everyone knows: she merely has to raise an eyebrow to make even those most formidable solders drop their swords and spears.",
 			"specialty" : 
 			{
-				"description" : "{Weakness}\r\n\r\nCasts Weakness with increased effect, based on the level of the target unit.",
+				"description" : "Casts Weakness with increased effect, based on the level of the target unit.",
 				"tooltip" : "Spell Bonus: Weakness",
 				"name" : "Weakness"
 			}

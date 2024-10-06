@@ -1,7 +1,7 @@
 {
 	"murdoch" : 
 	{
-		"class" : "mercenary",
+		"class" : "unMercenary",
 		"female" : false,
 		"special" : true,
 		"texts" :
@@ -10,7 +10,7 @@
 			"biography" : "Murdoch is a man to call a professional soldier of fortune. He barely likes anything more than money and fame. That is why Murdoch gathered a company of daredevils of his own kind and went to seek adventures on the landscapes of Jadame. Who knows where his fate will take him next time?",
 			"specialty" :
 			{
-				"description" : "{Archery}\r\n\r\nReceives a 5% per level bonus to Archery skill percentage.",
+				"description" : "Receives a 5% per level bonus to Archery skill percentage.",
 				"tooltip" : "Secondary Skill Bonus: Archery",
 				"name" : "Archery"
 			}

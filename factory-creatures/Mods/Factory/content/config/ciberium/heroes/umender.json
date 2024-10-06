@@ -1,14 +1,14 @@
 {
 	"umender" : 
 	{
-		"class" : "artificer",
+		"class" : "unArtificer",
 		"texts" :
 		{
 			"name" : "Umender",
 			"biography" : "Long ago, Umender was a Bracadan Alchemist, who liked tinkering with mechs and geodes. He moved to Jadame with his new Termotrons, which golem-like, but with magic engine and more powerfull. It is known that he makes engines from some kind of crystals. There are many gossips about the crystals' origins. Some people say that he was using gremlins to mine these crystals and found a never-ending vein of magic crystals.",
 			"specialty" : 
 			{
-				"description" : "{Termotrons and Battle Termotrons}\r\n\r\nIncreases Speed of any Termotrons or Battle Termotrons by 1 and their Attack and Defense skills by 5% for every 4 levels (rounded up).",
+				"description" : "Increases Speed of any Termotrons or Battle Termotrons by 1 and their Attack and Defense skills by 5% for every 4 levels (rounded up).",
 				"tooltip" : "Creature Bonus: Termotrons",
 				"name" : "Termotrons"
 			}

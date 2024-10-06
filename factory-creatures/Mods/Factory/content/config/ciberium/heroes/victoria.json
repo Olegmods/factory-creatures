@@ -1,7 +1,7 @@
 {
 	"victoria" : 
 	{
-		"class" : "artificer",
+		"class" : "unArtificer",
 		"female" : true,
 		"texts" :
 		{
@@ -9,7 +9,7 @@
 			"biography" : "Best spellcasters are actually capable of resurrecting dead, but can a soldier who stepped on a mine count on it? Dealing with such an insidious weapon, Victoria did not get the respect of her colleagues, and yet she devoted her life to improving it. The inventor found another use for her knowledge after she met Floribert - making mechanical limbs for crippled soldiers.",
 			"specialty" : 
 			{
-				"description" : "{Land Mine}\r\n\r\nCasts Land Mine with increased effect, based on hero level.",
+				"description" : "Casts Land Mine with increased effect, based on hero level.",
 				"tooltip" : "Spell Bonus: Land Mine",
 				"name" : "Land Mine"
 			}

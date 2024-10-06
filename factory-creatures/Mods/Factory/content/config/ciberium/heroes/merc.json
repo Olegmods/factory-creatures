@@ -1,5 +1,5 @@
 {
-	"mercenary" : 
+	"unMercenary" : 
 	{
 		"name" : "Mercenary",
 		"animation" :
@@ -27,7 +27,7 @@
 				} 
 			} 
 		},
-		"commander" : "faWurm",
+		"commander" : "faUnCommander",
 		"faction" : "factoryUn",
 		"affinity" : "might",
 		"primarySkills" :

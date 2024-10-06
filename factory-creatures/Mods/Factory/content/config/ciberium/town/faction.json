@@ -125,8 +125,8 @@
 				"witch"        : 5,
 				"planeswalker" : 5,
 				"elementalist" : 5,
-				"artificer" : 6,
-				"mercenary" : 6
+				"unArtificer" : 6,
+				"unMercenary" : 6
 			}
 		}
 	}
