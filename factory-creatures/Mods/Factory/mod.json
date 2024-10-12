@@ -5,10 +5,11 @@
 	"licenseName" : "Creative Commons Attribution-NonCommercial-ShareAlike",
 	"licenseURL" : "https://creativecommons.org/licenses/by-nc-sa/4.0/deed",
 	"contact" : "https://vk.com/olegkomarant",
-	"version" : "2.0.1",
+	"version" : "2.0.2",
 	"modType" : "Town",
 	"changelog" : 
 	{
+		"2.0.2"   : [ "Boyd fixed." ],
 		"2.0.1"   : [ "Bug fixes." ],
 		"2.0.0"   : [ "New graphics for some objects and structures." ],
 		"1.1.0"   : [ "Bellwether Armadillo bug fixed." ],
