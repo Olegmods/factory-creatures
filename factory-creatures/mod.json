@@ -6,9 +6,10 @@
 	"licenseURL" : "https://creativecommons.org/licenses/by-nc-sa/4.0/deed",
 	"modType" : "Town",
 	"name" : "Factory HotA Creatures",
-	"version" : "1.4.6",	
+	"version" : "1.4.7",	
 	"changelog" : 
 	{
+		"1.4.7"   : [ "Boyd fixed." ],
 		"1.4.6"   : [ "HotA map support added." ],
 		"1.4.5"   : [ "Fixed issues with Commander and stack experience system." ],
 		"1.4.4"   : [ "Commander and stack experience added." ],
