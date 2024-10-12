@@ -17,10 +17,10 @@
 		},
 		"images" :
 		{
-			"specialtySmall" : "ciberium/heroes/sunni/spec-small.png",
-			"specialtyLarge" : "ciberium/heroes/sunni/spec-large.png",
-			"large" : "ciberium/heroes/sunni/portrait-large.png",
-			"small" : "ciberium/heroes/sunni/portrait-small.png"
+			"specialtySmall" : "ciberium/heroes/boyd/BoydSpecSmall.png",
+			"specialtyLarge" : "ciberium/heroes/boyd/BoydSpec.png",
+			"large" : "ciberium/heroes/boyd/boydLarge.png",
+			"small" : "ciberium/heroes/boyd/boydSmall.png"
 		},
 		"army" :
 		[
