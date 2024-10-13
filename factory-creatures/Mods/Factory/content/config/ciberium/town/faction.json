@@ -13,7 +13,7 @@
 			"guildBackground" : "TPMAGE.bmp",
 			"townBackground": "ciberium/town-screen/background",
 			"guildWindow": "ciberium/town-screen/mage-guild",
-			"hallBackground": "BackgHallNewest.BMP",
+			"hallBackground": "Factory-hall/BackgHallNewest.png",
 			"hallSlots":
 			[
 				[ [ "villageHall", "townHall", "cityHall", "capitol" ], [ "fort", "citadel", "castle" ], [ "tavern" ], [ "blacksmith" ] ],
