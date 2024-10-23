@@ -6,9 +6,10 @@
 	"licenseURL" : "https://creativecommons.org/licenses/by-nc-sa/4.0/deed",
 	"modType" : "Town",
 	"name" : "Factory HotA Creatures",
-	"version" : "1.4.9",	
+	"version" : "1.4.10",	
 	"changelog" : 
 	{
+		"1.4.10": [ "Minor fixes" ],
 		"1.4.9" : [ "Courtyard compatibility fixed" ],
 		"1.4.8" : [ "Minor update." ],
 		"1.4.7"   : [ "Boyd fixed." ],
