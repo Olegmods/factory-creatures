@@ -1,14 +1,15 @@
 {
 	"author" : "Olegmods.INC, other authors are credited in the Factory submod.",
 	"contact" : "https://vk.com/olegkomarant",
-	"description" : "Base for my unofficial Factory mod with HotA creatures. Adds Factory creatures as neutrals. Conflicts with Factory demo (due to both upgrading Halflings), Refuge town and Antagarich Burning (not Forge 2k) (due to all upgrading Rogues).",
+	"description" : "Base for my unofficial Factory mod with HotA creatures. Base mod adds Factory creatures as neutrals. Conflicts with Factory demo (due to both upgrading Halflings), Refuge town and Antagarich Burning (not Forge 2k) (due to all upgrading Rogues).",
 	"licenseName" : "Creative Commons Attribution-NonCommercial-ShareAlike",
 	"licenseURL" : "https://creativecommons.org/licenses/by-nc-sa/4.0/deed",
 	"modType" : "Town",
 	"name" : "Factory HotA Creatures",
-	"version" : "1.4.10",	
+	"version" : "1.4.11",	
 	"changelog" : 
 	{
+		"1.4.11": [ "New Tarnum portrait" ],
 		"1.4.10": [ "Minor fixes" ],
 		"1.4.9" : [ "Courtyard compatibility fixed" ],
 		"1.4.8" : [ "Minor update." ],
