@@ -82,13 +82,14 @@
 				},
 			"timeBetweenFidgets" : 1
 		},
-		"sound" : {
-			"attack" : "GUNSATTK.wav",
-			"defend" : "GUNSDFND.wav",
-			"killed" : "GUNSKILL.wav",
-			"move" : "GUNSMOVE.wav",
-			"shoot" : "GUNSSHOT.wav", 
-			"wince" : "GUNSWNCE.wav"
+		"sound" :
+		{
+			"attack": "HALFATTK.wav",
+			"defend": "HALFDFND.wav",
+			"killed": "HALFKILL.wav",
+			"move": "HALFMOVE.wav",
+			"shoot": "HALGSHOT.wav",
+			"wince": "HALFWNCE.wav"
 		}
 	}
 }
