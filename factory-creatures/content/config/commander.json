@@ -63,8 +63,8 @@
 			"animationTime" : { "attack" : 1, "idle" : 10, "walk" : 1 },
 			"iconLarge" : "commander.png",
 			"iconSmall" : "commanders.bmp",
+			"timeBetweenFidgets" : 1,
 			"map" : "cmndrm.def",
-			"mapMask" : [ "VVV", "VAV"],
 			
 			"missile" :
 			{
