@@ -3,8 +3,8 @@
 	{
 		"name" :
 		{
-			"singular" : "Cowboys",
-			"plural" : "Cowboy"
+			"singular" : "Trailblazer",
+			"plural" : "Trailblazers"
 		},
 		"faction" : "neutral",
 		"level": 0,
