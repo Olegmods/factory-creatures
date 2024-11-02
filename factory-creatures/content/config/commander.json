@@ -54,16 +54,16 @@
 			"canCast" :
 			{
 				"type" : "SPELLCASTER",
-				"subtype" : "spell.precision",
+				"subtype" : "spell.fortune",
 				"val" : 3
 			}
 		},
 		"graphics" : {
-			"animation" : "teststeltest.def",
+			"animation" : "cmndr.def",
 			"animationTime" : { "attack" : 1, "idle" : 10, "walk" : 1 },
-			"iconLarge" : "GH.png",
-			"iconSmall" : "gunsl.bmp",
-			"map" : "avwguns.def",
+			"iconLarge" : "commander.png",
+			"iconSmall" : "commanders.bmp",
+			"map" : "cmndrm.def",
 			"mapMask" : [ "VVV", "VAV"],
 			
 			"missile" :
