@@ -46,6 +46,7 @@
 		},
 		"doubleWide" : true,
 		"growth" : 7,
+		"upgrades" : [ "faHeatArma" ],
 		"hitPoints" : 30,
 		"level" : 3,
 		"sound" :
