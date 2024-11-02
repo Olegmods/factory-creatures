@@ -54,6 +54,7 @@
 		"config/Ogloi.json",
 		"config/Bron.json",
 		"config/Bronup.json",
+		"config/Bronupup.json",
 		"config/Mechanic.json",
 		"config/Engineer.json",
 		"config/Autonew.json",
