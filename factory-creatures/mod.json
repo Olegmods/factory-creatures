@@ -6,12 +6,13 @@
 	"licenseURL" : "https://creativecommons.org/licenses/by-nc-sa/4.0/deed",
 	"modType" : "Town",
 	"name" : "Factory HotA Creatures",
-	"version" : "1.4.11",	
+	"version" : "2.0.0",	
 	"changelog" : 
 	{
-		"1.4.11": [ "New Tarnum portrait" ],
-		"1.4.10": [ "Minor fixes" ],
-		"1.4.9" : [ "Courtyard compatibility fixed" ],
+		"2.0.0": [ "Third upgrade Armadillo added. Added unique commander." ],
+		"1.4.11": [ "New Tarnum portrait." ],
+		"1.4.10": [ "Minor fixes." ],
+		"1.4.9" : [ "Courtyard compatibility fixed." ],
 		"1.4.8" : [ "Minor update." ],
 		"1.4.7"   : [ "Boyd fixed." ],
 		"1.4.6"   : [ "HotA map support added." ],
