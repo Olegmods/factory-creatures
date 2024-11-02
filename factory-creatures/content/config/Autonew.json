@@ -104,14 +104,6 @@
 			{
 				"bonus" :
 				{
-					"subtype" : "creatureDamageBoth",
-					"type" : "CREATURE_DAMAGE"
-				},
-				"values" : [ 0, 1, 1, 2, 2, 3, 3, 4, 4, 4 ]
-			},
-			{
-				"bonus" :
-				{
 					"type" : "ADDITIONAL_ATTACK"
 				},
 				"values" : [ 0, 0, 0, 0, 1, 1, 1, 1, 1, 1 ]
