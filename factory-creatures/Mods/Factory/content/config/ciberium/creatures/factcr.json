@@ -85,6 +85,10 @@
 	{
 		"faction" : "factoryUn"
 	},
+	"factory-creatures:faHeatArma":
+	{
+		"faction" : "factoryUn"
+	},
 	"factory-creatures:faArma":
 	{
 		"faction" : "factoryUn"

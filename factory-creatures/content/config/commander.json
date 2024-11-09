@@ -3,8 +3,8 @@
 	{
 		"name" :
 		{
-			"singular" : "Cowboys",
-			"plural" : "Cowboy"
+			"singular" : "Trailblazer",
+			"plural" : "Trailblazers"
 		},
 		"faction" : "neutral",
 		"level": 0,
@@ -54,41 +54,42 @@
 			"canCast" :
 			{
 				"type" : "SPELLCASTER",
-				"subtype" : "spell.precision",
+				"subtype" : "spell.fortune",
 				"val" : 3
 			}
 		},
 		"graphics" : {
-			"animation" : "teststeltest.def",
+			"animation" : "cmndr.def",
 			"animationTime" : { "attack" : 1, "idle" : 10, "walk" : 1 },
-			"iconLarge" : "GH.png",
-			"iconSmall" : "gunsl.bmp",
-			"map" : "avwguns.def",
-			"mapMask" : [ "VVV", "VAV"],
+			"iconLarge" : "commander.png",
+			"iconSmall" : "commanders.bmp",
+			"timeBetweenFidgets" : 1,
+			"map" : "cmndrm.def",
 			
-			"missile" : {
-				"attackClimaxFrame" : 10,
+			"missile" :
+			{
+				"projectile": "PBOMB.DEF",
 				"offset" :
 				{
-					"upperX" : 38,
-					"upperY" : -65,
-					"middleX" : 36,
-					"middleY" : -59,
-					"lowerX" : 21,
-					"lowerY" : -50
+					"upperX" : 41,
+					"upperY" : -92,
+					"middleX" : 58,
+					"middleY" : -79,
+					"lowerX" : 29,
+					"lowerY" : -14
 				},
 				"frameAngles" : [90, 72, 45, 27, 0, -27, -45, -72, -90, 0, 0, 0],
-				"projectile" : "courtyard/battle/projectile/PMusket.def"
-				},
-			"timeBetweenFidgets" : 1
+				"attackClimaxFrame" : 8
+			}
 		},
-		"sound" : {
-			"attack" : "GUNSATTK.wav",
-			"defend" : "GUNSDFND.wav",
-			"killed" : "GUNSKILL.wav",
-			"move" : "GUNSMOVE.wav",
-			"shoot" : "GUNSSHOT.wav", 
-			"wince" : "GUNSWNCE.wav"
+		"sound" :
+		{
+			"attack": "HALFATTK.wav",
+			"defend": "HALFDFND.wav",
+			"killed": "HALFKILL.wav",
+			"move": "HALFMOVE.wav",
+			"shoot": "HALGSHOT.wav",
+			"wince": "HALFWNCE.wav"
 		}
 	}
 }

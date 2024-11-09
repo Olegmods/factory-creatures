@@ -1,51 +1,50 @@
 {
-	"faArma":
+	"faHeatArma":
 	{
 		"name" :
 		{
-			"plural" : "Armadillos",
-			"singular" : "Armadillo"
+			"plural" : "Heat-Scarred Armadillos",
+			"singular" : "Heat-Scarred Armadillo"
 		},
-		"hasDoubleWeek": true,
+		"hasDoubleWeek": false,
 		"advMapAmount" :
 		{
-			 "max" : 25,
+			 "max" : 18,
 			 "min" : 12
 		},
 		"faction" : "neutral",
 //                       for now
-		"aiValue" : 255,
+		"aiValue" : 525,
 ///		"special" : true,
-		"attack" : 8,
+		"attack" : 9,
 		"cost" :
 		{
-			"gold" : 225
+			"gold" : 400
 		},
 		"damage" :
 		{
 			 "max" : 5,
 			 "min" : 3
 		},
-		"defense" : 8,
-		"fightValue" : 255,
+		"defense" : 11,
+		"fightValue" : 525,
 		"graphics" :
 		{
-			"animation" : "bron.DEF",
-			"map" : "avwalmd.def",
+			"animation" : "WARM.DEF",
+			"map" : "newarmamap.def",
 			"mapMask" : [ "VVV", "VAV"],
-			"iconSmall" : "armas.bmp",
-			"iconLarge" : "armanew.png",
-///			"iconLarge" : "arma.png",
+			"iconSmall" : "armaupups.bmp",
+			"iconLarge" : "armaupup.bmp",
 			"timeBetweenFidgets" : 1,
 			"animationTime" :
 			{
 				"walk" : 1,
 				"idle" : 10,
-				"attack" : 1
+				"attack" : 1,
+				 
 			}
 		},
 		"doubleWide" : true,
-		"upgrades" : [ "faBellArma" ],
 		"growth" : 7,
 		"hitPoints" : 30,
 		"level" : 3,
@@ -54,10 +53,10 @@
 			"attack" : "ARMAATTK.wav",
 			"defend" : "ARMADFND.wav",
 			"killed" : "ARMAKILL.wav",
-			"move"   : "ARMAMOVE.wav",
+			"move"   : "ARMASPEC.wav",
 			"wince"  : "ARMAWNCE.wav"
 		},
-		"speed" : 5,
+		"speed" : 10,
 		"stackExperience" :
  
 		[
@@ -90,7 +89,14 @@
 				{
 					"type" : "STACK_HEALTH"
 				},
-				"values" : [ 0, 0, 1, 1, 1, 2, 2, 2, 3, 3 ]
+				"values" : [ 0, 0, 1, 1, 1, 2, 2, 2, 3, 4 ]
+			},
+			{
+				"bonus" :
+				{
+					"type" : "DEFENSIVE_STANCE"
+				},
+				"values" : [ 0, 0, 0, 0, 1, 1, 1, 2, 2, 3 ]
 			}
 		]
 	}
