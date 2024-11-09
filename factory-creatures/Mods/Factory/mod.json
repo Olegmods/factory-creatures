@@ -29,8 +29,7 @@
 	[
 		"factory-creatures",
 		"hota.wastelandterrain",
-		"factory-creatures.heroes3datapatchfactory",
-		"factory-creatures.newgraphicsfactory"
+		"factory-creatures.hotac"
 	],
 	"factions" :
 	[
