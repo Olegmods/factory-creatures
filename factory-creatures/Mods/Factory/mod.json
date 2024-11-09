@@ -5,10 +5,11 @@
 	"licenseName" : "Creative Commons Attribution-NonCommercial-ShareAlike",
 	"licenseURL" : "https://creativecommons.org/licenses/by-nc-sa/4.0/deed",
 	"contact" : "https://vk.com/olegkomarant",
-	"version" : "3.0.0",
+	"version" : "3.0.1",
 	"modType" : "Town",
 	"changelog" : 
 	{
+		"3.0.1"   : [ "Submod fix" ],
 		"3.0.0"   : [ "New commander. Also added a third upgrade for Armadillo." ],
 		"2.0.3"   : [ "New Tarnum portrait." ],
 		"2.0.2"   : [ "Boyd fixed." ],
@@ -29,8 +30,7 @@
 	[
 		"factory-creatures",
 		"hota.wastelandterrain",
-		"factory-creatures.heroes3datapatchfactory",
-		"factory-creatures.newgraphicsfactory"
+		"factory-creatures.hotacomparatibilitypatch"
 	],
 	"factions" :
 	[
