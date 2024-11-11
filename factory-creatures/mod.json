@@ -1,15 +1,16 @@
 {
 	"author" : "Olegmods.INC, other authors are credited in the Factory submod.",
 	"contact" : "https://vk.com/olegkomarant",
-	"description" : "Base for my unofficial Factory mod with HotA creatures. Base mod adds Factory creatures as neutrals. Conflicts with Factory demo (due to both upgrading Halflings), Refuge town and Antagarich Burning (not Forge 2k) (due to all upgrading Rogues).",
+    	"description": "<h1 style='color:#002366; font-size:28px; font-weight:bold;'>Factory HotA Creatures</h1><p style='font-size:16px; color:#333333; font-style:italic;'> Meet some new creatures from a popular mod for <i>Heroes of Might and Magic III</i>, <i>Horn of the Abyss</i> (HotA). </p><p style='font-size:18px; color:#002366; font-weight:bold;'>Adding new content</p><p style='font-size:16px; color:#333333;'> Factory HotA Creatures introduces some new content, including creatures from Factory with stats they had before release, a new Unofficial Factory town with some things that differ from HotA one. The <span style='color:#002366; font-weight:bold;'>Factory HotA Creaturs</span> for VCMI allows players to use creatures without the town itself in 1.5.7 and adds an option to play the new town, Unofficial Factory, that uses a lot of content made by modding community. </p><p style='font-size:18px; color:#990000; font-weight:bold;'>Disclaimer</p><p style='color:#333333; font-size:15px;'> While the mod add Factory town and its creatures, it's different from the official HotA one and Ben Yan's port. If you want to play original Factory town, I suggest you to use Ben Yan's port. Mod differs from the official Factory by a lot. Most stats are made from the wiki info before the release, there are two third upgrade creatures and an alternative creature. Also you can build a second tier 2 dwelling to hire Rogues, who share their growth with growth of Mechanics. </p>",
 	"licenseName" : "Creative Commons Attribution-NonCommercial-ShareAlike",
 	"licenseURL" : "https://creativecommons.org/licenses/by-nc-sa/4.0/deed",
 	"modType" : "Town",
 	"name" : "Factory HotA Creatures",
-	"version" : "2.0.1",	
+	"version" : "2.0.2",	
 	"changelog" : 
 	{
-		"2.0.1": [ "Submod fix" ],
+		"2.0.2": [ "Updated description." ],
+		"2.0.1": [ "Submod fix." ],
 		"2.0.0": [ "Third upgrade Armadillo added. Added unique commander." ],
 		"1.4.11": [ "New Tarnum portrait." ],
 		"1.4.10": [ "Minor fixes." ],
