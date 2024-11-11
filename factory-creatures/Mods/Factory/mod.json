@@ -1,14 +1,15 @@
 {
 	"name" : "Factory (Unofficial)",
-	"description" : "HotA's Factory in original style.",
+	"description": "<h1 style='color:#002366; font-size:28px; font-weight:bold;'>Unofficial Factory</h1><p style='font-size:16px; color:#333333; font-style:italic;'> Step into the steampunkish wastelands of the <i>Burton</i>, a city that combines nature and advanced technology. Built by some settlers interested in inventions, maybe even some outcasts from the defeated Forge forces, that town is a center of freethinking now. </p><p style='font-size:18px; color:#002366; font-weight:bold;'>New Units & Buildings</p><p style='font-size:16px; color:#333333;'> Recruit technologically enhanced creatures like <b>Automatons</b>, <b>Termorons</b>, <b>Gunslingers</b>, and the mighty <b>Steam Dreadnoughts</b>. Expand your army further by upgrading to <b>Sentinel Automatons</b>, <b>Battle Termotrons</b>, <b>Sheriffs</b>, and <b>Steam Juggernauts</b>. Key buildings like the <b>Serpentarium</b> and <b>Saloon</b> bring a unique Wild West flair, allowing you to build an unstoppable wasteland force. </p><p style='font-size:18px; color:#002366; font-weight:bold;'>Creatures and Abilities</p><p style='font-size:16px; color:#333333;'> Factory creatures have a lot of interesting abilities: <b>Dreadnoughts</b> and <b>Juggernauts</b> use their laser ray to obliterate enemies, while <b>Bounty Hunters</b> and <b>Sheriffs</b> have <i>infinite first ranged retaliations</i>, making enemy shooters worse. <b>Rainbow Couatls</b> and <b>Crimson Couatls</b> excel with <i>immunities to many negative effects</i> and <b>Halfing Grenadiers</b> bring a lot of <i>explosions</i>. Together, these creatures combine strength and strategy in entirely new ways. </p><p style='font-size:18px; color:#002366; font-weight:bold;'>Lead the Wasteland warriors</p><p style='font-size:16px; color:#333333;'> With the <i>Factory</i>, embark on a journey that merges powers of nature and cutting-edge machines. Command unique heroes, harness the power of Lightning Rod, and field an army of wasteland creatures in your quest for dominance. Lead the Factory forces to win! </p>",
 	"author" : "HotA Crew, mod by Olegmods.INC with usage of models from mods: Neutral Heroes (VCMI), Antagarich Burning (Bandit def) (VCMI), Factory demo (Spells' configs) (VCMI), Third Upgrades Mod (New Repair def) (ERA) and ERA+ (Bounty Hunter rip) (ERA). Also used assets from World of Warcraft (Both Termotrons), Nepheretes's Oasis old materials, PvZ2 (Wild West first wave) and fiorin's hero pack (male Mercenary). Some icons made by Aphra. Tarnum's portraits made by Andruids. Commander made by Fiorin.",
 	"licenseName" : "Creative Commons Attribution-NonCommercial-ShareAlike",
 	"licenseURL" : "https://creativecommons.org/licenses/by-nc-sa/4.0/deed",
 	"contact" : "https://vk.com/olegkomarant",
-	"version" : "3.0.1",
+	"version" : "3.0.2",
 	"modType" : "Town",
 	"changelog" : 
 	{
+		"3.0.2"   : [ "Updated description" ],
 		"3.0.1"   : [ "Submod fix" ],
 		"3.0.0"   : [ "New commander. Also added a third upgrade for Armadillo." ],
 		"2.0.3"   : [ "New Tarnum portrait." ],
