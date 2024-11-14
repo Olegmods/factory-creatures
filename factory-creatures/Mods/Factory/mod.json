@@ -5,10 +5,11 @@
 	"licenseName" : "Creative Commons Attribution-NonCommercial-ShareAlike",
 	"licenseURL" : "https://creativecommons.org/licenses/by-nc-sa/4.0/deed",
 	"contact" : "https://vk.com/olegkomarant",
-	"version" : "3.0.2",
+	"version" : "3.0.3",
 	"modType" : "Town",
 	"changelog" : 
 	{
+		"3.0.3"   : [ "Removed the main mod dependency." ],
 		"3.0.2"   : [ "Updated description" ],
 		"3.0.1"   : [ "Submod fix" ],
 		"3.0.0"   : [ "New commander. Also added a third upgrade for Armadillo." ],
@@ -29,7 +30,6 @@
 	},
 	"depends" :
 	[
-		"factory-creatures",
 		"hota.wastelandterrain",
 		"factory-creatures.hotacomparatibilitypatch"
 	],
