@@ -9,7 +9,7 @@
 	"modType" : "Town",
 	"changelog" : 
 	{
-		"3.0.3"   : [ "Removed the main mod dependency" ],
+		"3.0.3"   : [ "Removed the main mod dependency." ],
 		"3.0.2"   : [ "Updated description" ],
 		"3.0.1"   : [ "Submod fix" ],
 		"3.0.0"   : [ "New commander. Also added a third upgrade for Armadillo." ],
