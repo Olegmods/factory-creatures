@@ -1,0 +1,11 @@
+{
+	"name" : "Refuge compatibility for Unofficial Factory",
+	"description" : "Changes some things from Refuge mod",
+	"modType" : "Compatibility",
+	"author" : "Olegmods.INC",
+	"contact" : "http://vcmi.eu/",
+	"licenseName" : "CC-BY-SA-NC",
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa-nc/4.0/deed",
+	"version" : "1.0.0",
+	"depends" : [ "refugee-town", "refugee-town.hota" ]
+}
