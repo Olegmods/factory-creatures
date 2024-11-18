@@ -7,5 +7,20 @@
 	"licenseName" : "CC-BY-SA-NC",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa-nc/4.0/deed",
 	"version" : "1.0.0",
-	"depends" : [ "refugee-town", "refugee-town.hota" ]
+	"depends" : [ "refugee-town", "refugee-town.hota" ],
+	
+	
+	"creatures" :
+	[
+		"config/creatures/rfgcRogue.json",
+		"config/creatures/rfgcl2l.json"
+	],
+	"factions" :
+	[
+		"config/town/faction.json"
+	],
+	"objects" :
+	[
+		"config/town/dwellings.json"
+	]
 }
