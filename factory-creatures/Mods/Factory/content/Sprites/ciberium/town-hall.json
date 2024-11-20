@@ -30,5 +30,7 @@
 		{ "frame" : 52, "file" : "rogu.bmp"},
 		{ "frame" : 54, "file" : "autnewu.bmp"},
 		{ "frame" : 57, "file" : "serpu.bmp"},
+		{ "frame" : 150, "file" : "m.bmp"},
+		{ "frame" : 151, "file" : "mu.bmp"},
 	]
 }
