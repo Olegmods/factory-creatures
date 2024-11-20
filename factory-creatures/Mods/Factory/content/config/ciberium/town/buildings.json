@@ -208,6 +208,7 @@
 						"wood" : 5,
 						"gold" : 1000
 					},
+					"warMachine" : "ammoCart",
 					"id" : 16
 				},
 				"horde1" :
