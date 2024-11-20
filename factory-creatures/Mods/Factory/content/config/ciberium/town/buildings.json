@@ -234,7 +234,7 @@
 					"requires" : [ "horde1" ],
 					"mode" : "auto"
 				},
-				"dwellingLvl7B" :
+				"dwellingLvl7" :
 				{
 					"name" : "Serpentarium",
 					"description" : "Serpentarium allows you to recruit Rainbow Couatls.",
@@ -247,7 +247,7 @@
 					"id" : 50, 
 					"requires" : [ "allOf", [ "dwellingLvl5" ], [ "mageGuild1" ]]
 				},
-				"dwellingUpLvl7B" :
+				"dwellingUpLvl7" :
 				{
 					"name" : "Upg. Serpentarium",
 					"description" : "Upg. Serpentarium allows you to recruit Crimson Couatls.",
@@ -259,7 +259,7 @@
 					},
 					"id" : 57, 
 					"requires" : [ "mageGuild2" ],
-					"upgrades" : "dwellingLvl7B"
+					"upgrades" : "dwellingLvl7"
 				},
 				"special1" :
 				{
@@ -431,7 +431,7 @@
 					"requires" : [ "allOf", [ "fort" ], [ "blacksmith" ], [ "anyOf", ["dwellingLvl4"], ["dwellingLvl4B"] ] ],
 					"id" : 35
 				},
-				"dwellingLvl7" :
+				"dwellingLvl8" :
 				{
 					"description" : "Mechaworks allows to recruit Steam Dreadnoughts.",
 					"name" : "Mechaworks",
@@ -441,7 +441,7 @@
 						"mercury" : 20
 					},
 					"requires" : [ "allOf", [ "dwellingLvl6" ], [ "blacksmith" ], [ "fort" ] ],
-					"id" : 36
+					"id" : 150
 				},
 				"dwellingUpLvl1" :
 				{
@@ -541,7 +541,7 @@
 					"id" : 42,
 					"upgrades" : "dwellingLvl6"
 				},
-				"dwellingUpLvl7" :
+				"dwellingUpLvl8" :
 				{
 					"description" : "Upg. Mechaworks allows to recruit Steam Juggernauts.",
 					"name" : "Upg. Mechaworks",
@@ -550,8 +550,8 @@
 						"gold" : 17500,
 						"mercury" : 20
 					},
-					"id" : 43,
-					"upgrades" : "dwellingLvl7"
+					"id" : 151,
+					"upgrades" : "dwellingLvl8"
 				}
 			}
 		}
