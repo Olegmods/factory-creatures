@@ -7,7 +7,7 @@
 		"boat" : "boatCastle",
 		"town" :
 		{
-			"musicTheme" : "music/ciberium/Factory",
+			"musicTheme" : ["music/ciberium/Factory"],
 			"defaultTavern" : 5,
 			"tavernVideo" : "TAVERN.BIK",
 			"guildBackground" : "TPMAGE.bmp",
