@@ -20,7 +20,7 @@
 				[ [ "marketplace", "resourceSilo", "special3" ], [ "mageGuild1", "mageGuild2", "mageGuild3", "mageGuild4", "mageGuild5" ], [ "special1" ], ["special4"]],
 				[ [ "special2" ], [ "dwellingLvl2B", "dwellingUpLvl2B" ], [ "horde1", "horde1Upgr" ], [ "dwellingLvl4B", "dwellingUpLvl4B" ] ],
 				[ [ "dwellingLvl1", "dwellingUpLvl1" ], [ "dwellingLvl2", "dwellingUpLvl2" ], [ "dwellingLvl3", "dwellingUpLvl3" ], [ "dwellingLvl4", "dwellingUpLvl4" ] ],
-				[ [ "dwellingLvl5", "dwellingUpLvl5" ], [ "dwellingLvl6", "dwellingUpLvl6" ], [ "dwellingLvl7B", "dwellingUpLvl7B" ],[ "dwellingLvl7", "dwellingUpLvl7" ] ]
+				[ [ "dwellingLvl5", "dwellingUpLvl5" ], [ "dwellingLvl6", "dwellingUpLvl6" ], [ "dwellingLvl7", "dwellingUpLvl7" ],[ "dwellingLvl8", "dwellingUpLvl8" ] ]
 			],
 			"creatures" :
 			[
@@ -30,7 +30,8 @@
 				[ "faAutomaton", "faBattleAutomaton", "faSpider", "faSentinelSpider" ],
 				[ "faWurm", "faOgloi" ],
 				[ "faGunslinger", "faBounty" ],
-				[ "faDreadnought", "faJuggernaut", "faCouatl", "faRedCouatl"]
+				[ "faCouatl", "faRedCouatl"],
+				[ "faDreadnought", "faJuggernaut" ]
 			],
 			"horde" : [ 0, -1 ],
 			"moatAbility" : "rampartMoat",
