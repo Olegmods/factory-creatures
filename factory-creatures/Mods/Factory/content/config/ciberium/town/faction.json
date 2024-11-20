@@ -36,7 +36,6 @@
 			"moatAbility" : "rampartMoat",
 			"mageGuild" : 5,
 			"primaryResource" : "mercury",
-			"warMachine" : "ammoCart",
 			"buildingsIcons" : "ciberium/town-hall.def",
 			"icons" :
 			{
