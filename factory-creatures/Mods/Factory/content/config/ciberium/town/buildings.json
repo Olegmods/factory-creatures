@@ -244,7 +244,7 @@
 						"ore" : 10,
 						"gold" : 10000
 					},
-					"id" : 50, 
+					"id" : 36, 
 					"requires" : [ "allOf", [ "dwellingLvl5" ], [ "mageGuild1" ]]
 				},
 				"dwellingUpLvl7" :
@@ -257,7 +257,7 @@
 						"ore" : 10,
 						"gold" : 15000
 					},
-					"id" : 57, 
+					"id" : 43, 
 					"requires" : [ "mageGuild2" ],
 					"upgrades" : "dwellingLvl7"
 				},
