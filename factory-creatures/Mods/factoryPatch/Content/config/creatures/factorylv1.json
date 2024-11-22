@@ -1,0 +1,6 @@
+{
+  "core:halfling": {
+    "faction": "factoryUn",
+    "upgrades": [ "faHalful" ]
+	}
+}

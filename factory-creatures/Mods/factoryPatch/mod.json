@@ -1,0 +1,57 @@
+{
+	"name" : "HotA Factory compatibility for Unofficial Factory",
+	"description" : "Changes some things from HotA Factory mod",
+	"modType" : "Compatibility",
+	"author" : "Olegmods.INC",
+	"contact" : "http://vcmi.eu/",
+	"licenseName" : "CC-BY-SA-NC",
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa-nc/4.0/deed",
+	"version" : "1.0.0",
+	"depends" : [ "factory-creatures.factory", "hota.factory", "hota.heroes3datapatch"
+	//"factory-creatures.factory", "factory-creatures.hotaComparatibilityPatch"
+	],
+	
+	
+	"creatures" :
+	[
+		"config/creatures/factorylv1.json",
+		"config/creatures/hotaHalfling.json",
+	],
+	"factions" :
+	[
+		"config/town.json"
+	],
+	"objects" :
+	[
+		"config/dwellings.json"
+	],
+
+	"heroes" :[
+		"config/heroes/01_Henrietta.json",
+		"config/heroes/02_Sam.json",
+		"config/heroes/03_Tancred.json",
+		"config/heroes/04_Melchior.json",
+		"config/heroes/05_Floribert.json",
+		"config/heroes/06_Wynona.json",
+		"config/heroes/07_Dury.json",
+		"config/heroes/08_Morton.json",
+		"config/heroes/09_Tavin.json",
+		"config/heroes/10_Murdoch.json",
+		"config/heroes/11_Celestine.json",
+		"config/heroes/12_Todd.json",
+		"config/heroes/13_Agar.json",
+		"config/heroes/14_Bertram.json",
+		"config/heroes/15_Wrathmont.json",
+		"config/heroes/16_Ziph.json",
+		"config/heroes/17_Victoria.json",
+		"config/heroes/18_Eanswythe.json",
+		"config/heroes/19_Frederick.json",
+		"config/heroes/campaignHeroes/s01_Jangaard.json",
+		"config/heroes/campaignHeroes/s02_Stina.json",
+		"config/heroes/campaignHeroes/s03_Valquest.json",
+		"config/heroes/campaignHeroes/s04_Winzells.json",
+		"config/heroes/campaignHeroes/s05_Elderian.json",
+		"config/heroes/campaignHeroes/s06_Umender.json"
+	]
+}
+
