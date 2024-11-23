@@ -74,7 +74,6 @@
 	],
 	"conflicts" :
 	[
-		"hota.factory",
 		"ab-bad-ending-assets"
 	]
 }
