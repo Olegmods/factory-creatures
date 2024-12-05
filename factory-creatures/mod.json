@@ -9,8 +9,8 @@
 	"version" : "2.0.13",	
 	"changelog" : 
 	{
-		"2.0.13": [ "Repair fixes again." ]
-		"2.0.12": [ "Halfling fixes." ]
+		"2.0.13": [ "Repair fixes again." ],
+		"2.0.12": [ "Halfling fixes." ],
 		"2.0.11": [ "Repair fixes." ],
 		"2.0.10": [ "Various fixes by GeorgeKing." ],
 		"2.0.9": [ "HotA Factory compatibility fixes again." ],
