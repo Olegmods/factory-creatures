@@ -6,9 +6,10 @@
 	"licenseURL" : "https://creativecommons.org/licenses/by-nc-sa/4.0/deed",
 	"modType" : "Town",
 	"name" : "Factory HotA Creatures",
-	"version" : "2.0.13",	
+	"version" : "2.0.14",	
 	"changelog" : 
 	{
+		"2.0.14": [ "Factory patch fixes again." ],
 		"2.0.13": [ "Repair fixes again." ],
 		"2.0.12": [ "Halfling fixes." ],
 		"2.0.11": [ "Repair fixes." ],
