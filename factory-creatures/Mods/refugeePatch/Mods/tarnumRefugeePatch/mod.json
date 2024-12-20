@@ -1,0 +1,22 @@
+{ 
+
+   "name" : "Tarnum patch (Refugee)", 
+   "description" : "A small patch for Tarnum from Refugee", 
+   "author" : "Olegmods.INC", 
+   "contact" : "https://www.vcmi.acidcave.net/mdt_forge.html", 
+   "version" : "1.0.0", 
+   "modType" : "Compatibility",
+   "depends" : ["hota.factory", "tarnum.tarnumrefugee"],
+  	"compatibility" :
+	{
+		"min" : "1.6.0"
+	},
+   "changelog" : 
+   { 
+         "1.0.0" : [ "Initial release" ] 
+   },   
+   "heroes" : 
+   [ 
+     "config/TarnumWanderer.json" 
+   ] 
+ }
