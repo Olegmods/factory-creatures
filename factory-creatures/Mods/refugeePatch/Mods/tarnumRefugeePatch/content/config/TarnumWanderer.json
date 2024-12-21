@@ -10,7 +10,7 @@
         "min" : 15
       },
       {
-        "creature" : "rfgcrogue",
+        "creature" : "rfgcRogue",
         "max" : 7,
         "min" : 4
       },
