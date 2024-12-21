@@ -6,10 +6,11 @@
 	"licenseURL" : "https://creativecommons.org/licenses/by-nc-sa/4.0/deed",
 	"modType" : "Town",
 	"name" : "Factory HotA Creatures",
-	"version" : "2.0.19",	
+	"version" : "2.1.0",	
 	"changelog" : 
 	{
-		"2.0.18": [ "Refuge Tarnum fixes." ],
+		"2.1.0":  [ "AB Bad Ending compatibility." ],
+		"2.0.19": [ "Refuge Tarnum fixes." ],
 		"2.0.18": [ "Minor fixes." ],
 		"2.0.17": [ "Tarnum is Back compatibility." ],
 		"2.0.16": [ "Wynona fix." ],
