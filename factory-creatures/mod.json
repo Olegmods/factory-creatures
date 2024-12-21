@@ -84,7 +84,7 @@
 	[
 		"config/hotaRepair.json"
 	],
-	"conflicts" :
+	"softDepends" :
 	[
 		"ab-bad-ending-assets"
 	]
