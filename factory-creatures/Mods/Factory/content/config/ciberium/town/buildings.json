@@ -320,6 +320,7 @@
 					"description" : "Lightning Rod increases weekly creature generation by 50 percent, adds 5000 gold per day and strikes all enemy stacks with lightning at the beginning of every battle the player participates in, anywhere on the map.",
 					"name" : "Lightning Rod",
 					"id" : 26,
+					"produce": { "gold": 5000 },
 					"bonuses" : [
 					{
 						"type" : "OPENING_BATTLE_SPELL",

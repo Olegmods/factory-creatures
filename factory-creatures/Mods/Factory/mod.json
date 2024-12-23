@@ -5,10 +5,11 @@
 	"licenseName" : "Creative Commons Attribution-NonCommercial-ShareAlike",
 	"licenseURL" : "https://creativecommons.org/licenses/by-nc-sa/4.0/deed",
 	"contact" : "https://vk.com/olegkomarant",
-	"version" : "3.0.5",
+	"version" : "3.0.6",
 	"modType" : "Town",
 	"changelog" : 
 	{
+		"3.0.6"   : [ "Fix Grail not to produce gold" ],
 		"3.0.5"   : [ "New Tarnum portraits by FallainBlack." ],
 		"3.0.4"   : [ "Updated Wynona's biography to the latest HotA one." ],
 		"3.0.3"   : [ "Removed the main mod dependency." ],
