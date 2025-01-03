@@ -1,7 +1,7 @@
 {
   "tarnumFactory:tarnumMercenary" :
   {
-    "class" : "factoryAClass",
+    "class" : "mercenary",
     "female" : false,
     "special" : false,
     "texts" :
