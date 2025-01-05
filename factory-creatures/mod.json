@@ -6,9 +6,10 @@
 	"licenseURL" : "https://creativecommons.org/licenses/by-nc-sa/4.0/deed",
 	"modType" : "Town",
 	"name" : "Factory HotA Creatures",
-	"version" : "2.1.4",	
+	"version" : "2.1.5",	
 	"changelog" : 
 	{
+		"2.1.5":  [ "Polish translation by FallainBlack" ],
 		"2.1.4":  [ "HotA related fixes" ],
 		"2.1.3":  [ "Minor fix" ],
 		"2.1.2":  [ "Update Format for the new factory naming and file structure." ],
@@ -61,8 +62,13 @@
 		"0.0.3"   : [ "Dreadnought (neutral) added as a final version" ],
 		"0.0.1"   : [ "Dreadnought neutral prototype added" ]
 	},
-	
-	
+	"polish" : {
+		"name" : "Nieoficjalna Fabryka",
+		"description" : "<h1 style='color:#002366; font-size:28px; font-weight:bold;'>Nieoficjalna Fabryka</h1><p style='font-size:16px; color:#333333; font-style:italic;'> Poznaj nowe stworzenia z popularnego moda do <i>Heroes of Might and Magic III</i>, <i>Horn of the Abyss</i> (HotA). </p><p style='font-size:18px; color:#002366; font-weight:bold;'>Dodano nową zawartośc</p><p style='font-size:16px; color:#333333;'> Nieoficjalna Fabryka wprowadza nową zawartość, w tym stworzenia z Factory ze statystykami, które miały przed wydaniem, nowe nieoficjalne miasto Faktoria z pewnymi rzeczami różniącymi się od miasta HotA. <span style='color:#002366; font-weight:bold;'>Nieoficjalna Fabryka</span> dla VCMI pozwala graczom używać stworzeń bez samego miasta i dodaje opcję gry w nowym mieście, Unofficial Factory, które wykorzystuje wiele treści stworzonych przez społeczność modderów. </p><p style='font-size:18px; color:#990000; font-weight:bold;'>Zastrzeżenie</p><p style='color:#333333; font-size:15px;'> Chociaż mod dodaje miasto Factory i jego stworzenia, różni się on od oficjalnego miasta HotA i portu Bena Yana. Jeśli chcesz grać w oryginalnym mieście Factory, sugeruję użycie portu Bena Yana. Mod różni się od oficjalnego miasta Factory w dużym stopniu. Większość statystyk pochodzi z informacji wiki sprzed wydania, są dwa stworzenia trzeciego ulepszenia i alternatywne stworzenie. Możesz także zbudować drugie mieszkanie drugiego poziomu, aby zatrudnić Łotrów, którzy dzielą swój wzrost wraz ze wzrostem Mechaników. </p>",
+		"translations" : [
+			"translation/unofficialfactory/polish.json"
+		]
+	},		
 	"creatures" :
 	[
 		"config/bandit.json",
