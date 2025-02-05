@@ -6,9 +6,10 @@
 	"licenseURL" : "https://creativecommons.org/licenses/by-nc-sa/4.0/deed",
 	"modType" : "Town",
 	"name" : "Factory HotA Creatures",
-	"version" : "2.1.6",	
+	"version" : "2.1.7",	
 	"changelog" : 
 	{
+		"2.1.7":  [ "Commander map def update by Toriko" ],
 		"2.1.6":  [ "Tarnum patch fixes" ],
 		"2.1.5":  [ "Polish translation by FallainBlack" ],
 		"2.1.4":  [ "HotA related fixes" ],
