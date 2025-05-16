@@ -1,1 +1,22 @@
-
+{
+	"author" : "Olegmods.INC.",
+	"contact" : "https://vk.com/olegkomarant",
+    	"description": "The wiki for the Unofficial Factory town",
+	"licenseName" : "Creative Commons Attribution-NonCommercial-ShareAlike",
+	"licenseURL" : "https://creativecommons.org/licenses/by-nc-sa/4.0/deed",
+	"modType" : "Town",
+	"name" : "Unofficial Factory Wiki",
+	"version" : "1.0.0",	
+	"creatures" :
+	[
+		"config/FactoryWiki/wiki.json"
+	],
+	"factions" :
+	[
+		"config/FactoryWiki/wikiTown.json"
+	],
+	"softDepends" :
+	[
+		"heroes-o-pedia"
+	]
+}
