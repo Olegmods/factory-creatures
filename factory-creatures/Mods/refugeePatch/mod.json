@@ -10,8 +10,12 @@
 	"depends" : [ "factory-creatures.factory", "refugee-town", "refugee-town.hota"
 	//"factory-creatures.factory", "factory-creatures.hotaComparatibilityPatch"
 	],
-	
-	
+	"polish" : {
+		"name" : "Path zgodności z miastem Enklawa",
+		"translations" : [
+			"translation/path/polish.json"
+		]
+	},	
 	"creatures" :
 	[
 		"config/creatures/refugee/rfgcRogue.json",

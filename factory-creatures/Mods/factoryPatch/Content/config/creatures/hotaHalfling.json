@@ -21,11 +21,11 @@
     "defense": 2,
     "fightValue": 83,
     "graphics": {
-      "animation": "factory/battle/creatures/CHalf.def",
-      "map": "factory/map/creatures/AVWhalf.def",
-	  "mapMask" : [ "VVV", "VAV"],
-      "iconSmall": "factory/iconsSmall/creatures/CPrS001F.bmp",
-      "iconLarge": "factory/iconsBig/creatures/CPrL001F.bmp"
+	"animation": "hota/factory/creatures/battle/CHalf.def",
+      "map": "hota/factory/creatures/adventureMap/AVWhalf.def",
+      "mapMask" : [ "VVV", "VAV"],
+      "iconSmall": "hota/factory/creatures/iconsSmall/CPrS001F.bmp",
+      "iconLarge": "hota/factory/creatures/iconsLarge/CPrL001F.bmp"
       "timeBetweenFidgets": 1,
       "animationTime": {
         "walk": 1,
@@ -51,7 +51,6 @@
     "growth": 15,
     "hitPoints": 4,
     "level": 1,
-    "upgrades": [ "hobbit" ],
     "shots" : 24,
     "sound": {
       "attack": "HALFATTK.wav",

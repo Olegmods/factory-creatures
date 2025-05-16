@@ -9,7 +9,7 @@
 		"school":
 		{
 			"air": false,
-			"earth": true,
+			"earth": false,
 			"fire": false,
 			"water": false
 		},
@@ -24,13 +24,13 @@
 
  
 		"animation":{
-			"affect":["spells/CSPhea03.def"]
+			"affect":["spells/RepairSpell.def"]
 		},
  
 		"flags" : {	"positive": true, "rising" : true},
 "targetCondition" : {
 			"noneOf" : { "bonus.UNDEAD" : "absolute" },
-			"anyOf" : {	"bonus.NON_LIVING" : "absolute", "bonus.GARGOYLE" : "absolute" },
+			"anyOf" : {	"bonus.NON_LIVING" : "absolute", "bonus.GARGOYLE" : "absolute", "bonus.MECHANICAL" : "absolute" },
 		},
  
 		"graphics":
@@ -40,7 +40,6 @@
 
 		"sounds": {
 			"cast": "MECHSHOT.wav"
-///			"cast": "repair.wav"
 		},
  
 		"levels":
@@ -55,7 +54,7 @@
 						"type":"core:heal",
 						"healLevel":"resurrect",
 						"healPower":"oneBattle",
-						"minFullUnits" : 1,
+						"minFullUnits" : 0,
 						"val" : 30,
 					},
 					"cure":{

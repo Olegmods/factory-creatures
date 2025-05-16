@@ -1,0 +1,23 @@
+{
+  "tarnumFactory:tarnumMercenary" :
+  {
+    "army" :
+    [
+      {
+        "creature" : "hotaHalfling",
+        "max" : 25,
+        "min" : 15
+      },
+      {
+        "creature" : "hotaMechanic",
+        "max" : 8,
+        "min" : 6
+      },
+      {
+        "creature" : "armadillo",
+        "max" : 6,
+        "min" : 4
+      }
+    ]
+}
+}

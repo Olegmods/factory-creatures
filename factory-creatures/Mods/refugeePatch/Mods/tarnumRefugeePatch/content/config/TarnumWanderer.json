@@ -1,0 +1,24 @@
+{
+  "tarnum.tarnumrefugee:tarnumrfghcWanderer" :
+  {
+
+    "army" :
+    [
+      {
+        "creature" : "rfgcOvercomer",
+        "max" : 25,
+        "min" : 15
+      },
+      {
+        "creature" : "rfgcRogue",
+        "max" : 7,
+        "min" : 4
+      },
+      {
+        "creature" : "rfgcVagabond",
+        "max" : 3,
+        "min" : 2
+      }
+    ]
+	}
+}

@@ -1,6 +1,10 @@
 {
   "core:halfling": {
     "faction": "factoryUn",
-    "upgrades": [ "faHalful" ]
+    "upgrades": [ "faHalful" ],
+    "graphics": {
+      "iconSmall": "hotaCPRSmall/CPrSm140.bmp",
+      "iconLarge": "hotaTwCrport/twcrp140.bmp"
+    },
 	}
 }
