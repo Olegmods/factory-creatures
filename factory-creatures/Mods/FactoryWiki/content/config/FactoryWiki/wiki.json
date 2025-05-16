@@ -1,0 +1,109 @@
+{	
+	"core:halfling" :
+	{
+		"description" : "{Halfling}\r\n\r\nArmed with sling and stone, halflings have found a harsh existence in Antagrich. Driven from their homes by the Kreegans, halflings have been scattered to the winds. These noble fighters take refuge in the earth and have an uncanny sense of luck.\r\n\r\n{gold|Special Ability : Minimum Luck is +1. Shoots}"
+	},
+	
+	"factory-creatures:faHalful" :
+	{
+		"description" : "{Halfling Grenadier}\r\n\r\nArmed with sling and bombs, halflings have found a harsh existence in Antagrich. Driven from their homes by the Kreegans, halflings have been scattered to the winds. These noble fighters take refuge in the earth and have an uncanny sense of luck.\r\n\r\nA rather situative shooter, can be powerful against big groups of enemies.\r\n\r\n{gold|Special Ability : Minimum Luck is +1. Shoots. Fireball attack.}"
+	},
+	
+	"core:rogue" :
+	{
+		"description" : "{Rogue}\r\n\r\nRogues and Bandits abound in Antagrich. If you are able to employ them in your ranks, you will be able to spy on any nearby enemies simply by right-clicking on them.\r\n\r\n{gold|Special Ability : Spies.}"
+	},
+	
+	"factory-creatures:bandit" :
+	{
+		"description" : "{Bandit}\r\n\r\nRogues and Bandits abound in Antagrich. If you are able to employ them in your ranks, you will be able to spy on any nearby enemies simply by right-clicking on them.\r\n\r\n{gold|Special Abilites : Spies, First Strike. Block Retaliation}"
+	},	
+
+	"factory-creatures:faArma" :
+	{
+		"description" : "{Armadillo}\r\n\r\nArmadillos, being local to Jadame, became tamed by the scattered groups of inventors. These are quite often used as living walls, as a source of rather delicious meat or simply as pets.\r\n\r\nArmadillos are basically meat shields, being on the weaker side of T3s. The Armadillos are weaker than Golems, but are more costly."
+	},
+	
+	"factory-creatures:faBellArma" :
+	{
+		"description" : "{Bellwether Armadillo}\r\n\r\nArmadillos, being local to Jadame, became tamed by the scattered groups of inventors. These are quite often used as living walls, as a source of rather delicious meat or simply as pets.\r\n\r\nArmadillos are basically meat shields, being on the weaker side of T3s. The Armadillos are weaker than Golems, but are more costly."
+	},
+
+	"factory-creatures:faHeatArma" :
+	{
+		"description" : "{Heat-Scarred Armadillo}\r\n\r\nArmadillos, being local to Jadame, became tamed by the scattered groups of inventors. These are quite often used as living walls, as a source of rather delicious meat or simply as pets.\r\n\r\nArmadillos are basically meat shields, being on the weaker side of T3s. The Armadillos are weaker than Golems, but are more costly. Though Heat-Scarred Armadillos are quite fast, so they might prove to be more useful than aforememtioned Golems."
+
+	},
+	
+	"factory-creatures:faAutomaton" :
+	{
+		"description" : "{Termotron}\r\n\r\nThese bulky machines are made with the usage of crystals of unknown origin. Though, the predescessors of the Termotrons - Mecha Knights - were made with the usage of the Heavenly Forge tech. Despite the tech level of the Forge outcasts lowered, these mechanisms still show the Forge powers.\r\n\r\n{gold|Special Abilities : Defensive Stance (+1 defence), Non-Living, 50% magic resistance.}"
+	},
+	
+	"factory-creatures:faBattleAutomaton" :
+	{
+		"description" : "{Battle Termotron}\r\n\r\nThese bulky machines are made with the usage of crystals of unknown origin. Though, the predescessors of the Termotrons - Mecha Knights - were made with the usage of the Heavenly Forge tech. Despite the tech level of the Forge outcasts lowered, these mechanisms still show the Forge powers.\r\n\r\n{gold|Special Abilities : Defensive Stance (+2 defence), Non-Living, 60% magic resistance, 5% enemy defence reduction.}"
+	},
+	
+	"factory-creatures:faSpider" :
+	{
+		"description" : "{Automaton}\r\n\r\nDespite not being as good as Termotrons, these spider-like mechanisms are actually the main power of the Factory. Being less costly and more offensive than defensive, Automatons can form a powerstack.\r\n\r\n{gold|Special Ability : Non-Living, 20% magic resistance}"
+	},
+	
+	"factory-creatures:faSentinelSpider" :
+	{
+		"description" : "{Sentinel Automaton}\r\n\r\nDespite not being as good as Termotrons, these spider-like mechanisms are actually the main power of the Factory. Being less costly and more offensive than defensive, Automatons can form a powerstack.\r\n\r\n{gold|Special Ability : Non-Living, 30% magic resistance, No Retaliatiom}"
+	},
+
+	"factory-creatures:faWurm" :
+	{
+		"description" : "{Sandworm}\r\n\r\nThe origin of these creatures is unknown, but the most popular theory is that these worms were made by Warlocks long ago. Anyway, now they are native to Jadame's wastelands. No one knows how these are controlled by the Factory forces, but it is what it is. The real answer is probably some mind control tech that remained from Forge, and probably that exact tech allows them to burrow through clouds.\r\n\r\n{gold|Special Ability : Burrows. Immune to Blind and Stone Gaze.}"
+	},
+	
+	"factory-creatures:faOgloi" :
+	{
+		"description" : "{Ogloi-Khorkhoi}\r\n\r\nThe origin of these creatures is unknown, but the most popular theory is that these worms were made by Warlocks long ago. Anyway, now they are native to Jadame's wastelands. No one knows how these are controlled by the Factory forces, but it is what it is. The real answer is probably some mind control tech that remained from Forge, and probably that exact tech allows them to burrow through clouds.\r\n\r\n{gold|Special Ability : Burrows. Immune to Blind and Stone Gaze.}"
+	},
+
+	"factory-creatures:faMechanic" :
+	{
+		"description" : "{Mechanic}\r\n\r\nAfter Forge's ultimate demise, the followers of the rebel Urabrask sailed to Jadame and colonized the continent. Despite the tech eventually became worse and reverse-engineered prototypes weren't as good as they were back in Forge's glorious days, the Mechanics and Engineers didn't lose their skill, which they gained under their leader's command. Also, due to quite constant need to repair the flamethrowers, they became quite techy and can now repair other non-living creatures.\r\n\r\n{gold|Special Ability : 2-hex attack, Repair}."
+	},
+	
+	"factory-creatures:faEngineer" :
+	{
+		"description" : "{Engineer}\r\n\r\nAfter Forge's ultimate demise, the followers of the rebel Urabrask sailed to Jadame and colonized the continent. Despite the tech eventually became worse and reverse-engineered prototypes weren't as good as they were back in Forge's glorious days, the Mechanics and Engineers didn't lose their skill, which they gained under their leader's command. Also, due to quite constant need to repair the flamethrowers, they became quite techy and can now repair other non-living creatures.\r\n\r\n{gold|Special Ability : 2-hex attack, Repair}."
+  },
+	"factory-creatures:faUnCommander" :
+	{ 
+		"description" : "{Trailblazer}\r\n\r\nFactory Commander\r\n\r\n{gold|Special Ability : Can cast Fortune spell at Expert Level.}"
+	},
+	"factory-creatures:faGunslinger" :
+	{
+		"description" : "{Gunslinger}\r\n\r\nUnlike the Mechanics and Engineers, former members of Kastore's Project Outpost actually became better on Jadame. The Gunslingers got a rifle and a pistol instead of the old and archaic gun they had used to blend with other Outpost members, and practiced their shooting skills a lot. Though, generations passed and now Gunslingers are humans mainly.\r\n\r\n{gold|Special Abilities : Shoots, Ranged First Retaliation.}"
+  },
+	"factory-creatures:faBounty" :
+	{
+		"description" : "{Bounty Hunter}\r\n\r\nUnlike the Mechanics and Engineers, former members of Kastore's Project Outpost actually became better on Jadame. The Bounty Hunters got a rifle and a pistol instead of the old and archaic gun they had used to blend with other Outpost members, and practiced their shooting skills a lot. Though, generations passed and now Bounty Hunters are humans mainly.\r\n\r\n{gold|Special Abilities : Shoots, Unlimited Ranged First Retaliation.}"
+  },
+	"factory-creatures:faSheriff" :
+	{
+		"description" : "{Sheriff}\r\n\r\nUnlike the Mechanics and Engineers, former members of Kastore's Project Outpost actually became better on Jadame. The Gunslingers got a rifle and a pistol instead of the old and archaic gun they had used to blend with other Outpost members, and practiced their shooting skills a lot. Though, generations passed and now Gunslingers are humans mainly. Sheriffs are the Gunslingers that were once bandits and bounty hunters, but now they are wery well paid by the government and serve the law.\r\n\r\n{gold|Special Abilities : Shoots, Unlimited Ranged First Retaliation.}"
+  },
+	"factory-creatures:faCouatl" :
+	{
+		"description" : "{Rainbow Couatl}\r\n\r\nThe Couatls can be quite oftenly met on both Antagarich and Jadame. While Antagarich species has more serpentine features, the Jadamean ones are more bird-like. Despite the differences, both variations are immune to some negative effects.\r\n\r\n{gold|Special Abilities : Flying, Immune to Stone Gaze, Poison, Bind, Disease, Paralyze, Age, Liches' Death Cloud, Thunderbirds' Thunderbolt, Dragonflies' Dispel, Death Stare and to the Acid Breath. Vulnerable to Slayer spell.}"
+  },
+	"factory-creatures:faRedCouatl" :
+	{
+		"description" : "{Crimson Couatl}\r\n\r\nThe Couatls can be quite oftenly met on both Antagarich and Jadame. While Antagarich species has more serpentine features, the Jadamean ones are more bird-like. Despite the differences, both variations are immune to some negative effects.\r\n\r\n{gold|Special Abilities : Flying, Immune to Stone Gaze, Poison, Bind, Disease, Paralyze, Age, Liches' Death Cloud, Thunderbirds' Thunderbolt, Dragonflies' Dispel, Death Stare and to the Acid Breath. Vulnerable to Advanced Slayer spell.}"
+  },
+	"factory-creatures:faDreadnought" :
+	{
+		"description" : "{Steam Dreadnought}\r\n\r\nThe apex of the Factory technology. Despite not being powered by electricity, the Steam Dreadnoughts and Juggernauts use some Forge tech that Factory engineers could replicate. This powerful but costly combination results in big white beam.\r\n\r\n{gold|Special Abilities : Non-Living, Wide Breath-like attack, vulnerable to Expert Slayer.}"
+  },
+	"factory-creatures:faJuggernaut" :
+	{
+		"description" : "{Steam Juggernaut}\r\n\r\nThe apex of the Factory technology. Despite not being powered by electricity, the Steam Dreadnoughts and Juggernauts use some Forge tech that Factory engineers could replicate. This powerful but costly combination results in big white beam.\r\n\r\n{gold|Special Abilities : Non-Living, Wide Breath-like attack, vulnerable to Advanced Slayer.}"
+  }
+}
