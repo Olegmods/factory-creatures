@@ -67,12 +67,12 @@
 
 	"factory-creatures:faMechanic" :
 	{
-		"description" : "{Mechanic}\r\n\r\nAfter Forge's ultimate demise, the followers of the rebel Urabrask sailed to Jadame and colonized the continent. Despite the tech eventually became worse and reverse-engineered prototypes weren't as good as they were back in Forge's glorious days, the Mechanics and Engineers didn't lose their skill, which they gained under their leader's command. Also, due to quite constant need to repair the flamethrowers, they became quite techy and can now repair other non-living creatures.\r\n\r\n{gold|Special Ability : 2-hex attack, Repair}."
+		"description" : "{Mechanic}\r\n\r\nAfter Forge's ultimate demise, the followers of the rebel Urabrask sailed to Jadame and colonized the continent. Despite the tech eventually became worse and reverse-engineered prototypes weren't as good as they were back in Forge's glorious days, the Mechanics and Engineers didn't lose their skill, which they gained under their leader's command. Also, due to quite constant need to repair the flamethrowers, they became quite techy and can now repair other non-living creatures.\r\n\r\n{gold|Special Abilities : 2-hex attack, Repair}."
 	},
 	
 	"factory-creatures:faEngineer" :
 	{
-		"description" : "{Engineer}\r\n\r\nAfter Forge's ultimate demise, the followers of the rebel Urabrask sailed to Jadame and colonized the continent. Despite the tech eventually became worse and reverse-engineered prototypes weren't as good as they were back in Forge's glorious days, the Mechanics and Engineers didn't lose their skill, which they gained under their leader's command. Also, due to quite constant need to repair the flamethrowers, they became quite techy and can now repair other non-living creatures.\r\n\r\n{gold|Special Ability : 2-hex attack, Repair}."
+		"description" : "{Engineer}\r\n\r\nAfter Forge's ultimate demise, the followers of the rebel Urabrask sailed to Jadame and colonized the continent. Despite the tech eventually became worse and reverse-engineered prototypes weren't as good as they were back in Forge's glorious days, the Mechanics and Engineers didn't lose their skill, which they gained under their leader's command. Also, due to quite constant need to repair the flamethrowers, they became quite techy and can now repair other non-living creatures.\r\n\r\n{gold|Special Abilities : 2-hex attack, Repair}."
   },
 	"factory-creatures:faUnCommander" :
 	{ 
