@@ -11,10 +11,6 @@
 	[
 		"config/FactoryWiki/wiki.json"
 	],
-	"factions" :
-	[
-		"config/FactoryWiki/wikiTown.json"
-	],
 	"softDepends" :
 	[
 		"heroes-o-pedia"
