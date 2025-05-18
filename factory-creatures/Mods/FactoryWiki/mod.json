@@ -4,7 +4,7 @@
     	"description": "The wiki for the Unofficial Factory town",
 	"licenseName" : "Creative Commons Attribution-NonCommercial-ShareAlike",
 	"licenseURL" : "https://creativecommons.org/licenses/by-nc-sa/4.0/deed",
-	"modType" : "Town",
+	"modType" : "Other",
 	"name" : "Unofficial Factory Wiki",
 	"version" : "1.0.0",	
 	"creatures" :
