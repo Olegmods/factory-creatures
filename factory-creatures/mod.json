@@ -6,9 +6,10 @@
 	"licenseURL" : "https://creativecommons.org/licenses/by-nc-sa/4.0/deed",
 	"modType" : "Town",
 	"name" : "Factory HotA Creatures",
-	"version" : "2.1.9",	
+	"version" : "2.2.0",	
 	"changelog" : 
 	{
+		"2.2.0":  [ "Submod system fixes, added alternate music submod by avatar and AI Udio" ],
 		"2.1.9":  [ "Wiki submod added" ],
 		"2.1.8":  [ "Refuge compatibility fixed" ],
 		"2.1.7":  [ "Commander map def update by Toriko" ],

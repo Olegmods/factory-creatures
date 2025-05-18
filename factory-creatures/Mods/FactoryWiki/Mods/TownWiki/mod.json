@@ -4,15 +4,16 @@
     	"description": "The wiki for the Unofficial Factory town",
 	"licenseName" : "Creative Commons Attribution-NonCommercial-ShareAlike",
 	"licenseURL" : "https://creativecommons.org/licenses/by-nc-sa/4.0/deed",
-	"modType" : "Other",
-	"name" : "Unofficial Factory Wiki",
-	"version" : "1.0.0",	
-	"creatures" :
+	"modType" : "Compatibility",
+	"name" : "Unofficial Factory Wiki (town)",
+	"version" : "1.0.0",
+	"factions" :
 	[
-		"config/FactoryWiki/wiki.json"
+		"config/FactoryWiki/wikiTown.json"
 	],
-	"softDepends" :
+	"depends" :
 	[
-		"heroes-o-pedia"
+		"factory-creatures.factory"
 	]
 }
+

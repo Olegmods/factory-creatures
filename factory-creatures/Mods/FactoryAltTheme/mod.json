@@ -1,0 +1,14 @@
+{
+	"author" : "Olegmods.INC, music by avatar and AI Udio.",
+	"contact" : "https://vk.com/olegkomarant",
+    	"description": "The alternate theme for the Unofficial Factory town",
+	"licenseName" : "Creative Commons Attribution-NonCommercial-ShareAlike",
+	"licenseURL" : "https://creativecommons.org/licenses/by-nc-sa/4.0/deed",
+	"modType" : "Music",
+	"name" : "Unofficial Factory Alternate Theme",
+	"version" : "1.0.0",
+	"depends" :
+	[
+		"factory-creatures.factory"
+	]
+}
