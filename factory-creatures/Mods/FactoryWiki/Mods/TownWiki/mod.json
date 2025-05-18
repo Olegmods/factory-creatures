@@ -11,7 +11,7 @@
 	[
 		"config/FactoryWiki/wikiTown.json"
 	],
-	"softDepends" :
+	"depends" :
 	[
 		"factory-creatures.factory"
 	]
